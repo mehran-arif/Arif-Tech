@@ -1,0 +1,14 @@
+.carousel-caption h5 {
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 20%;
+}
+
+.carousel-caption p {
+    margin-bottom: 15%;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 5%;
+}
